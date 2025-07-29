@@ -81,7 +81,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/darshan-v-32497632a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://webwatch.tech/Darshan" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://webwatch.tech/Darshan.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
