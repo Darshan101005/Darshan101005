@@ -13,7 +13,7 @@
 - 🔐 Passionate about **Cybersecurity** and active on **Bugcrowd** & **HackerOne**
 - 🐍 I work with Python for **ML**, **data projects**, and **web scraping**
 - 📺 I build tools for **OTT scraping**, especially for **sports live events**
-- 🧠 Learning **Japanese** daily on **Duolingo** (300+ day streak)
+- 🧠 Learning **Japanese** daily on **Duolingo** (365+ day streak)
 - 🧪 ML Project: **Oil Spill Detection**
 - 🛡️ Reported PoC bugs to **Hotstar**,**Robu.in** and **Vodafone Qatar**
 
