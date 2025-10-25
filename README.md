@@ -83,10 +83,3 @@
   <a href="https://www.linkedin.com/in/darshan-v-32497632a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://webwatch.tech/Darshan.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darshan101005&theme=gruvbox&row=1&margin-w=10&no-frame=true"/>
-</p>
-
----
