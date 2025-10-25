@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Darshan!</h1>
-<h3 align="center">A II Year B.Tech Student in AI & Data Analytics | Cybersecurity Enthusiast | Web Scraper | Duolingo Japanese Learner</h3>
+<h3 align="center">A II Year B.Tech Student in AI & Data Analytics | Cybersecurity Enthusiast | Web Scraper</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=AI+%26+Data+Analytics+Student;Cybersecurity+%7C+ML+%7C+Web+Scraping;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
