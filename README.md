@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a 2nd-year B.Tech student in **Artificial Intelligence & Data Analytics**
+- 🎓 I'm a 3rd-year B.Tech student in **Artificial Intelligence & Data Analytics**
 - 🔐 Passionate about **Cybersecurity** and active on **Bugcrowd** & **HackerOne**
 - 🐍 I work with Python for **ML**, **data projects**, and **web scraping**
 - 📺 I build tools for **OTT scraping**, especially for **sports live events**
